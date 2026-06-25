@@ -37,24 +37,8 @@ The design can be modified in CAD to create versions for different pipe sizes.
 - Print time: Approximately 1 hour 25 minutes
 - Design type: One-piece print
 - Supports: (add if needed)
+- Print V4
 
-## Installation
-
-1. Make sure the pipe opening is clean.
-2. Align the pipe cover with the pipe.
-3. Press the cover into place.
-4. Check that the friction fit holds securely.
-
-## Images
-
-Project images:
-(Add your image link here)
-
-## Limitations
-
-- Currently designed for 60 mm pipes only.
-- Not intended for industrial applications.
-- Fit may change depending on pipe dimensions and printer accuracy.
 
 ## Future Improvements
 
@@ -62,7 +46,6 @@ Possible future improvements:
 - Create more sizes for different pipe diameters
 - Improve the locking system
 - Test different materials
-- Create weather-resistant versions
 
 ## Software
 
